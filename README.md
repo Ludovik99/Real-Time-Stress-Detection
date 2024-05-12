@@ -1,2 +1,4 @@
 # Real-Time-Stress-Detection
-Real-time stress detection framework harness Apache Spark and Apache Kafka
+Real-time stress detection framework harnessing Apache Spark and Apache Kafka.
+
+
